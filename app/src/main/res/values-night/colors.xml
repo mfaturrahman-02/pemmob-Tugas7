@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_bg_available">#1E1E1E</color>
+    <color name="card_bg_unavailable">#2A2A2A</color>
+    <color name="text_unavailable">#9E9E9E</color>
+    <color name="border_unavailable">#424242</color>
+</resources>

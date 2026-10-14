@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Light Sensor Dashboard</string>
+    <string name="dashboard_title">Light Sensor Dashboard</string>
+    <string name="dashboard_subtitle">Auto dark mode: &lt;50 / &gt;100 lx (Debounce 2s)</string>
+
+    <string name="title_light">Sensor Cahaya (Ambient Light)</string>
+
+    <string name="sensor_unavailable">Sensor tidak tersedia</string>
+    <string name="sensor_unavailable_desc">Perangkat ini tidak dilengkapi sensor cahaya.</string>
+
+    <string name="reset_button">Reset Min/Max</string>
+    <string name="reset_toast">Dashboard direset!</string>
+
+    <string name="status_dark">GELAP</string>
+    <string name="status_dim">REDUP</string>
+    <string name="status_bright">TERANG</string>
+
+    <string name="min_max_format">Min: %1$s | Max: %2$s</string>
+</resources>
